@@ -53,7 +53,7 @@ body{
 }
 
 .link-container a.active {
-    background-color: lightskyblue;
+    background-color: salmon;
     color: white;
 }
 
@@ -249,9 +249,9 @@ ul{
 }
 
 .button {
-    background-color: lightskyblue;
+    background-color: salmon;
     font-family: 'Montserrat', sans-serif;
-    border: 0.5vh solid lightskyblue;
+    border: 0.5vh solid salmon;
     color: white;
     padding: 2.5vh 4vh;
     text-decoration: none;

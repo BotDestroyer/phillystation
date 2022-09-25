@@ -53,7 +53,7 @@ body{
 }
 
 .link-container a.active {
-    background-color: lightskyblue;
+    background-color: salmon;
     color: white;
 }
 
@@ -175,7 +175,7 @@ body{
 }
 
 .active-2 {
-    background-color: lightskyblue;
+    background-color: salmon;
     color: white;
 }
 
@@ -394,7 +394,7 @@ body{
 }
 
 .phone{
-    color:lightskyblue;
+    color:salmon;
 }
 
 .title{
